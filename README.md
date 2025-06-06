@@ -12,8 +12,8 @@
   
 </div>
 
-<img alt="My status" align="left" height="47%" src="https://github-readme-stats.vercel.app/api?username=Felipe-Kaio&show_icons=true&theme=tokyonight"/>
-<img alt="Top-Langs" align="left" height="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Kaio&layout=compact&show_icons=true&theme=tokyonight"/>
+<img alt="My status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Felipe-Kaio&show_icons=true&theme=tokyonight"/>
+<img alt="Top-Langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Kaio&layout=compact&show_icons=true&theme=tokyonight"/>
 
 <div> 
   <a href="https://instagram.com/felipe.fk7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
