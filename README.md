@@ -1,8 +1,5 @@
 ## Olá mundo, eu sou Felipe Kaio 👋
 
-- Técnico de Informática;
-- Engenharia de Software (Cursando);
-
 - 🔭 Atualmente estou trabalhando em um site ecológico
 - 🌱 Estudando Java Script e PHP
 
