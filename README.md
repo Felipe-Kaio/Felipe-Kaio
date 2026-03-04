@@ -1,7 +1,7 @@
 ## Olá mundo, eu sou Felipe Kaio 👋
 
-- 🔭 Atualmente estou trabalhando em um site ecológico
-- 🌱 Estudando Java Script e PHP
+- Estudando ferramentaas novas: Java, Springboot, Angular, PostegreeSQL.
+- Cursando Engenharia de Software
 
 <div style="display: inline_block"><br>
   <img align="center" alt="FK-Sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
